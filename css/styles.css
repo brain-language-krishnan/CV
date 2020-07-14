@@ -1,0 +1,25 @@
+h1{
+  color: black; font-family: Arial, sans-serif;
+
+}
+h3{
+  color: brown;
+}
+img{
+  background-color: white;
+}
+body{
+  background-color: #84a9ac;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+  font: Arial;
+
+}
+hr{
+  border-style: dotted;
+  border-style: none;
+  border-width: 7px;
+  border-color: green;
+  border-top-style: dotted;
+  width: 10%;
+}
